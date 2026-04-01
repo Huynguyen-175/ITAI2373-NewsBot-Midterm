@@ -169,7 +169,7 @@ Raw News Article
 
 1. Open the notebook in Google Colab:
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Huynguyen-175/ITAI2373-NewsBot-Midterm/blob/main/ITAI2373_NewsBot_Midterm_HuyNguyen.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Huynguyen-175/ITAI2373-NewsBot-Midterm/blob/main/ITAI2373_NewsBot_Midterm_HuyNguyen.ipynb)
 
 2. Run all cells top to bottom (`Runtime → Run All`)
 3. No Kaggle API key needed — dataset loads from HuggingFace
