@@ -33,7 +33,7 @@ Given a raw news article, NewsBot will:
 
 | Name | GitHub | Contributions |
 |------|--------|---------------|
-| Huy Nguyen | [@username](https://github.com/username) | Full pipeline, Modules 2–8, Integration |
+| Huy Nguyen | [@Huynguyen-175](https://github.com/Huynguyen-175) | Full pipeline, Modules 2–8, Integration |
 
 ---
 
@@ -315,7 +315,7 @@ scipy           >= 1.11
 - [x] README.md with project overview and instructions
 - [x] Dataset (`newsbot_dataset.csv`)
 - [x] All visualizations (11 PNG files)
-- [ ] Group Reflective Journal (PDF) — submitted via Canvas
+- [x] Group Reflective Journal (PDF) — submitted via Canvas
 - [ ] Video Demonstration (optional bonus)
 
 ---
